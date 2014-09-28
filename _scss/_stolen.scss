@@ -277,7 +277,9 @@ a {
 }
 
 .content .listing a:hover {
-    text-decoration: underline;
+    text-decoration: none;
+    color: #777777;
+    font-weight: bold;
 }
 
 .content .meta {
@@ -328,3 +330,4 @@ img.center {
     margin-left: auto;
     margin-right: auto;
 }
+
