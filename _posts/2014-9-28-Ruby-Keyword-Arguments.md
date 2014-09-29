@@ -11,7 +11,7 @@ Nevertheless, given that I was very happy I found about it, I wanted to write ab
 
 ### What is this Keyword Arguments thing?
 
-Keyword arguments is nothing more than **named parameters**. Meaning that we have to pass the name of the of each parameter within the method call.
+Keyword arguments is nothing more than **named parameters**. Meaning that we have to pass the name of each parameter within the method call.
 
 So our method defined and called like this
 
