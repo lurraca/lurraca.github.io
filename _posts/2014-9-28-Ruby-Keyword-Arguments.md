@@ -53,7 +53,7 @@ cool_method(magic_number: 10, magic_type "black magic")
 
 I don't need anything else.
 
-Now, let's say you know well that we are working with numbers and magic type, what else could our *cool_method* receive as arguments, right?. You would think that keyword arguments are unnecesarry for you. Think again. Another advantage of using Keyword Arguments is that you don't need to remember the position of the arguments.
+Now, let's say you know well that we are working with numbers and magic type, what else could our *cool_method* receive as arguments, right? You would think that keyword arguments are unnecesarry for you. Think again. Another advantage of using Keyword Arguments is that you don't need to remember the position of the arguments.
 
 I mean anything could happen if you call the method like this.
 
