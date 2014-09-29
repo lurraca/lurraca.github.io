@@ -34,7 +34,7 @@ Also I helped managed the Dev Ops of these projects, not that I am Dev Ops ninja
 
 I love learning. I'm the happiest when I'm learning something new, it could be anything a new languge, new tool, new practice, new pattern. 
 
-I love reading. I read everything on the internet useful or not. It's a blessing and a curse, on one hand I'm always up to date on what's happening on the tech sceneor I can suggest new solutions based on something I read recently but on the other hand this takes so much of my time that some days I feel that I didn't do anything except working and reading.
+I love reading. I read everything on the internet useful or not. It's a blessing and a curse, on one hand I'm always up to date on what's happening on the tech scene or sometimes I can suggest new solutions based on something I read recently but on the other hand this takes so much of my time that some days I feel that I didn't do anything except working and reading.
 
 I love sports.
 
