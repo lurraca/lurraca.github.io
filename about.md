@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Software Engineer, my weapon of choice(at the moment) is **Ruby** and **Ruby on Rails**, but I have certain proficiency in **Javascript** and working hard to get better at it everyday since I believe that JS is the language of the web adn seeing how each day more people are flocking to it. Besides I strongly believe in the use *the right tool for the job*, Ruby/Ruby on Rails are not the solution to all problems.
+Software Engineer, my weapon of choice(at the moment) is **Ruby** and **Ruby on Rails**, but I have certain proficiency in **Javascript** and working hard to get better at it everyday since I believe that JS is the language of the web and seeing how each day more people are flocking to it. Besides I strongly believe in the use *the right tool for the job*, Ruby/Ruby on Rails are not the solution to all problems.
 
 I believe in testing, so I develop using the TDD aproach (rspec as testing tool, ffaker to create test data, capybara to test in the browser)
 
