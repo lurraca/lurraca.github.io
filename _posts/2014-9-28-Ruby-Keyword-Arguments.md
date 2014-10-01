@@ -3,8 +3,6 @@ layout: post
 title: Ruby Keyword Arguments. Improve your code readibility
 ---
 
-**Disclaimer:** *this is my first blog post, my writing will probably be really bad but I will be working on it day and night. Bear with me.*
-
 I know, I know. I'm late to the party. Keyword Arguments is an old feature in Ruby. It's available since Ruby 2.0 and required keyword arguments is a feature supported since Ruby 2.1. At the time of this post the stable ruby version is Ruby 2.1.3. So yeah, this is ancient history. 
 
 Nevertheless, given that I was very happy when I found it, I wanted to write about it. There are probably some people that like me don't know about them and I want to help them leave that dark place they are living in.
