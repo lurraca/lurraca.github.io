@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ruby Keyword Arguments. Improve your code readibility
+title: Ruby Keyword Arguments. Improve your code readability
 ---
 
 I know, I know. I'm late to the party. Keyword Arguments is an old feature in Ruby. It's available since Ruby 2.0 and required keyword arguments is a feature supported since Ruby 2.1. At the time of this post the stable ruby version is Ruby 2.1.3. So yeah, this is ancient history. 
@@ -28,7 +28,7 @@ def cool_method(magic_number: 1, magic_type:)
   ### some beautiful code that outputs rainbows and unicorns
 end
 
-cool_method(magic_number: 10, magic_type "black magic")
+cool_method(magic_number: 10, magic_type: "black magic")
 {% endhighlight %}
 
 *Note: default arguments are set in the method signature after the ":". If the parameter is required just create the argument with trailing colon as "magic_type:". Ruby will raise an **ArgumentError** if that argument is not passed within the call.*
@@ -46,7 +46,7 @@ cool_method(10, "black magic")
 but I have to trace back the method definition to know that 10 is supposed to be *magic_number* and black_magic is supposed to be *magic_type*. On the other hand when I see this
 
 {% highlight ruby %}
-cool_method(magic_number: 10, magic_type "black magic")
+cool_method(magic_number: 10, magic_type: "black magic")
 {% endhighlight %}
 
 I don't need anything else.
