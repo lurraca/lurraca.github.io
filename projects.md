@@ -3,10 +3,8 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-###
-
-[voyeu-rb](https://github.com/lurraca/voyeu-rb)
-Ruby Wrapper for the [WatchPeopleCode.com](http://www.watchpeoplecode.com) API.
+### [voyeu-rb](https://github.com/lurraca/voyeu-rb)
+- Ruby Wrapper for the [WatchPeopleCode.com](http://www.watchpeoplecode.com) API.
 
 ## Contributions
 
