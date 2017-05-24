@@ -8,7 +8,7 @@ Software Engineer at [Pivotal](http://pivotal.io) where lately I been doing most
 
 I practice Extreme Programming which means I breathe **Test Driven Development**, **Pair Programming**, **Continuous Integration** and building products in **Iterations**.
 
-##Technologies - Services - Tools
+## Technologies - Services - Tools
 
 - AWS (EC2, Elastic Cache, RDS PosgreSQL/MySQL)
 - Pivotal Cloud Foundry
