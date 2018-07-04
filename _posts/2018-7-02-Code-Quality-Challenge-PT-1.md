@@ -37,4 +37,24 @@ So I went in, deleted the comment and created a chore in our Pivotal Tracker bac
 ```find . -type f | wc -l```
 List all files in the current dir, and then count each line.
 
-# Day 3 - TBD
+# Day 3 - July 4th? Seriously?!
+
+There were no challenge today since it's the 4th of July... I mean, who cares? According to Google, American are just 4.4% of the world population... get real! And then they ask they rub people the wrong. /rantover
+
+Anyway my quest of 30 days of doing something outside of work hours won't be stopped. I decided to start little project. A CLI tool that wraps around [Ngrok](https://ngrok.com/), and display the host user the exact command other people needs to execute in order to ssh into the host's machine.
+
+I am calling it [ssh-ngrok](https://github.com/lurraca/ssh-ngrok). 
+
+Something like:
+
+```
+ssh-ngrok <host-machine-username>
+
+-> ssh <host-machine-username>@ngrok-url.io -p 22
+```
+
+I know. I know... it's not rocket science, and barely useful at all. But I just want to learn some Go and keep myself busy after work hours, and it's something simple enough that it won't be hard to finish.
+
+**Note of the day:** 20 mins? More like 2.5 hrs. Oh well!
+
+# Day 4 - TBD
