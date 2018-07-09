@@ -83,4 +83,8 @@ This is a good one. Our fork of [Cloud Foundry Cloud Controller](https://github.
 
 Very nice! I do have to admit that I am eager to start digging into challenges more related to the code.
 
-# Day 8 - TBD
+# Day 8 - Extract a compound conditional
+
+Finally some code! Found a couple of compounds conditionals in our code, moved a few here and there! Also changed some nil/false guards to use the [safe navigation operator](http://mitrev.net/ruby/2015/11/13/the-operator-in-ruby/). I could had changed more instances of compound operators but didn't have enough time. This is the resulting [PR](https://github.com/cloudfoundry/cloud_controller_ng/pull/1172).
+
+# Day 9 - TBD
