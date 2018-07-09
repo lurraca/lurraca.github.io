@@ -61,17 +61,18 @@ I know. I know... it's not rocket science, and barely useful at all. But I just 
 
 Alright! I had my eye on warning for a while, here on this blog. Every time I pushed to github and that triggered a new a build I got an email from Github Pages alerting me that I the code highlighting library that I had set on my configuration of jekyll was deprecated.
 
-```
-The page build completed successfully, but returned the following warning for the `master` branch:
 
-You are attempting to use the 'pygments' highlighter, which is currently unsupported on GitHub Pages. Your site will use 'rouge' for highlighting instead. To suppress this warning, change the 'highlighter' value to 'rouge' in your '_config.yml' and ensure the 'pygments' key is unset. For more information, see https://help.github.com/articles/page-build-failed-config-file-error/#fixing-highlighting-errors.
+> The page build completed successfully, but returned the following warning for the `master` branch:
 
-For information on troubleshooting Jekyll see:
+> You are attempting to use the 'pygments' highlighter, which is currently unsupported on GitHub Pages. Your site will use 'rouge' for highlighting instead. To suppress this warning, change the 'highlighter' value to 'rouge' in your '_config.yml' and ensure the 'pygments' key is unset. For more information, see https://help.github.com/articles/page-build-failed-config-file-error/#fixing-highlighting-errors.You are attempting to use the 'pygments' highlighter, which is currently unsupported on GitHub Pages. Your site will use 'rouge' for highlighting instead. To suppress this warning, change the 'highlighter' value to 'rouge' in your '_config.yml' and ensure the 'pygments' key is unset. For more information, see https://help.github.com/articles/page-build-failed-config-file-error/#fixing-highlighting-errors.
 
-  https://help.github.com/articles/troubleshooting-jekyll-builds
+> For information on troubleshooting Jekyll see:
 
-If you have any questions you can contact us by replying to this email.
-```
+>  https://help.github.com/articles/troubleshooting-jekyll-builds
+
+> if you have any questions you can contact us by replying to this email.
+
+
 So I went on and did that change, no more warning.In the source code that I contribute to at work don't throw any warning at all, but will definitely keep at eye on it.
 
 **Note of the day:** This challenge took me like 15 minutes, including updating this posts. 
