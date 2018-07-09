@@ -75,4 +75,11 @@ If you have any questions you can contact us by replying to this email.
 So I went on and did that change, no more warning.In the source code that I contribute to at work don't throw any warning at all, but will definitely keep at eye on it.
 
 **Note of the day:** This challenge took me like 15 minutes, including updating this posts. 
-t
+
+# Day 5 - Trim your branches
+
+This is a good one. Our fork of [Cloud Foundry Cloud Controller](https://github.com/cloudfoundry/cloud_controller_ng) had **81** branches, crazy! I went on and removed like 30 of them, but they were to many for me to them all by myself. So I created a chore in our tracker project for each team member to go in and delete their own branches, since they would had more contact on whether or that code was safe to delete.
+
+Very nice! I do have to admit that I am eager to start digging into challenges more related to the code.
+
+# Day 8 - TBD
