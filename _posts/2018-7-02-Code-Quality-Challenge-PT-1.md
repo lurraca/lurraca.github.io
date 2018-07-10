@@ -87,4 +87,8 @@ Very nice! I do have to admit that I am eager to start digging into challenges m
 
 Finally some code! Found a couple of compounds conditionals in our code, moved a few here and there! Also changed some nil/false guards to use the [safe navigation operator](http://mitrev.net/ruby/2015/11/13/the-operator-in-ruby/). I could had changed more instances of compound operators but didn't have enough time. This is the resulting [PR](https://github.com/cloudfoundry/cloud_controller_ng/pull/1172).
 
-# Day 9 - TBD
+# Day 9 - Slim down an overgrown class
+
+Ohh wow! yeah! Well, this was something. I struggled to find a clear candidate that needed a refactor where I also had enough context to make a decent contribution. Found a class that I felt was doing a little bit more than it should and started moving some of it's methods to somewhere else. I felt these methods had to much logic and a very clear responsibility, specially for private methods and decided that they had to go. At the moment I have moved them to a module planning to extend it on the original class.
+
+I couldn't finish in 20 mins, I parked the code on a branch on my fork of CC, hoping to come back to it at some point in the future.
