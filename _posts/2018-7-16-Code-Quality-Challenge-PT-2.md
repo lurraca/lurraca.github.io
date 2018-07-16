@@ -15,3 +15,8 @@ Run both our main repos [Cloud Foundry Cloud Controller](https://github.com/clou
 
 This is a nice exercise since I am sure that this has been an issue in other projects where everything is part a single system.
 
+
+# Day 12 - Investigate your slowest test(s)
+
+Happily enough only #10 on the top 10 slowests tests for [Cloud Foundry Cloud Controller](https://github.com/cloudfoundry/cloud_controller_ng) is on /services. The tests doesn't seems to be doing nothing wrong, the implementation seems to be doing quite a lot. I feel that the drive to change the implementation needs to be bigger than this specific tests runs slow (1.7 seconds, which is a lot) in order to dedicate resource to make a change to the implementation specially since this is legacy code that i don't fully have context on.
+
