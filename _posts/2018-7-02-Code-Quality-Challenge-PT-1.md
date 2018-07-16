@@ -92,3 +92,11 @@ Finally some code! Found a couple of compounds conditionals in our code, moved a
 Ohh wow! yeah! Well, this was something. I struggled to find a clear candidate that needed a refactor where I also had enough context to make a decent contribution. Found a class that I felt was doing a little bit more than it should and started moving some of it's methods to somewhere else. I felt these methods had to much logic and a very clear responsibility, specially for private methods and decided that they had to go. At the moment I have moved them to a module planning to extend it on the original class.
 
 I couldn't finish in 20 mins, I parked the code on a branch on my fork of CC, hoping to come back to it at some point in the future.
+
+# Day 10 - Create a bin/setup script
+
+Since our repos are open source, we as a team are very conscious about making the life of contributors easier, whether they are externals or new team members that will join in the future, or even ourselves on a fresh OS. Our repos already have good enough setup scripts.
+
+---
+
+This marks the end of the first 10 days of the CQC. Stay stuned for the rest of the series!
