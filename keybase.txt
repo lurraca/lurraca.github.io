@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/lurraca
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.lurraca.com
+  * I am lurraca (https://keybase.io/lurraca) on keybase.
+  * I have a public key ASChKaWpWJg39Hraz4wHwZIO1SaRGnfW8q7tZmdIzyDwYwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a129a5a9589837f47adacf8c07c1920ed526911a77d6f2aeed666748cf20f0630a",
+      "host": "keybase.io",
+      "kid": "0120a129a5a9589837f47adacf8c07c1920ed526911a77d6f2aeed666748cf20f0630a",
+      "uid": "25c1c635af636fe5c4dfbfcb08311419",
+      "username": "lurraca"
+    },
+    "merkle_root": {
+      "ctime": 1590421437,
+      "hash": "ebd4903be86f46234af71d53396178cbde49716276333c9025c8b7f789094532fcc55891852988e4bf21fba7d7f6291e832cb792df1990aae699417ef0af995e",
+      "hash_meta": "7450dbae0e620c6a1833b216aef3cbd851a2f878eb5c2be53efe78fce59e5da8",
+      "seqno": 16401225
+    },
+    "service": {
+      "entropy": "E3O3I7UeJf7QWo5vdQLohnZi",
+      "hostname": "www.lurraca.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.4.2"
+  },
+  "ctime": 1590421516,
+  "expire_in": 504576000,
+  "prev": "730f6c45501656c65150646340aa8ca93be778d3849a2404d4e7b172818c58d5",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgoSmlqViYN/R62s+MB8GSDtUmkRp31vKu7WZnSM8g8GMKp3BheWxvYWTESpcCCcQgcw9sRVAWVsZRUGRjQKqMqTvneNOEmiQE1OexcoGMWNXEIAiQ+R9Hc0LSFBoB8/HD2B+EHAdKxGzmhua5cMNZGA+iAgHCo3NpZ8RACtyEBmaZuCGL2KQjABupevTMMLugCgNAr0JDd3HjB7MLgBXfPHEtE2Fy2ScM0g4ZudPOAiFSZSsBjsvRFXMuB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEOJ0cwk8OvTxvyYZ2UqoiNvaURrVvLsojaGEOiXwlKVo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lurraca
+
+==================================================================
